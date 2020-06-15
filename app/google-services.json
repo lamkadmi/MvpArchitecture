@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128534380817",
+    "firebase_url": "https://mvp-architecture-5b422.firebaseio.com",
+    "project_id": "mvp-architecture-5b422",
+    "storage_bucket": "mvp-architecture-5b422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128534380817:android:c415a3d626459d2f168cb0",
+        "android_client_info": {
+          "package_name": "com.architecture.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128534380817-e1l92psbp8kaepbtj91b4vsqg93teqib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWaryryb3aXpwzU52MHBMsWUCh-5Zuks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128534380817-e1l92psbp8kaepbtj91b4vsqg93teqib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
