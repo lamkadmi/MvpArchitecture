@@ -6,7 +6,7 @@ This repository contains a prototype of an application using MVP architecture us
 #### The app has following packages:
 1. **data**: It contains all the data accessing and manipulating components.
 2. **di**: Dependency providing classes using Dagger2.
-3. **featrue**: View classes.
+3. **features**: View classes.
 4. **utils**: Utility classes.
 5. **notification**: FireBase notifications.
 6. **dialog**: Dialog .
